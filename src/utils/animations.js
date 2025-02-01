@@ -21,7 +21,7 @@ export const animateWithGsapText = (target, animationProps, scrollProps) => {
     scrollTrigger: {
       trigger: target,
       toggleActions: 'restart none none none',
-      start: 'top 80%',
+      start: '-40% bottom',
       ...scrollProps,
     }
   })
