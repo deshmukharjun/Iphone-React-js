@@ -28,7 +28,7 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">Copright @ 2025 Apple Inc. All rights reserved.</p>
           <p className='font-semibold text-gray text-xs'>
             Made by  
-            <a href='https://www.arjundeshmukh.me' target="_blank" rel="noopener noreferrer">
+            <a href='https://www.arjundeshmukh.me' target="_blank" rel="noopener noreferrer"> 
             <span className="underline text-blue">Arjun Deshmukh</span>
             </a>
             </p>
